@@ -1,7 +1,7 @@
 
  ##  Meu Armazém de Livros
          
-   <img src="https://media.giphy.com/media/VJE5f22EQwaHjx5gTk/giphy.gif" align="right">       
+   <img src="https://media.giphy.com/media/VJE5f22EQwaHjx5gTk/giphy.gif" min-width="500px" max-width="500px" width="600px" align="right">       
 
   
  Livro | Autor  |
