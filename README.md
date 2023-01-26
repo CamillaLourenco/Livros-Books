@@ -6,7 +6,7 @@
   
  Livro | Autor  |
 ---|------|
-**Javascript** | By: david flanagan |
+**Javascript** | By: david flanagan | * [k](https://github.com/CamillaLourenco/books/blob/main/books/Livro%20de%20Javascript.pdf)
 **cccccccccc** | cccccccccccccccccc)|
 **cccccccccc** | cccccccccccccccccc)|
 **cccccccccc** | cccccccccccccccccc)|
