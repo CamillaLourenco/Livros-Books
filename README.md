@@ -2,7 +2,8 @@
 
 # Meu Armazém de Livros
  
-  <img src="https://media.giphy.com/media/h5dMMaqerqbOKSs3o9/giphy.gif" min-width="400px" max-width="400px" width="400px" align="central">
+  <img src="https://media.giphy.com/media/xUA7b2OfgTuVzqpVXq/giphy.gif" min-width="500px" max-width="600px" width="600px" align="central">
+  
   
  Livro | Autor  |
 ---|------|
